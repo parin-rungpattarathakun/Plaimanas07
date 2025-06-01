@@ -1,6 +1,6 @@
 # Plaimanas07
 
-This is the open-source font project for **Plaimanas07**, designed by Cadson Demak.
+Plaimanas07 is an open-source typeface project, commissioned by Plaimanas Industries and designed by Cadson Demak and Parin Rungpattarathakun.
 
 ## Repository structure
 
