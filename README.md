@@ -1,7 +1,6 @@
 Plaimanas07
 
 
-About
 Plaimanas07 is an open-source Thai typeface designed by Parin Rungpattaratkhun, in collaboration with Cadson Demak.  
 This project began as a personal exploration into Thai letterform aesthetics, particularly focusing on how traditional calligraphy could inform a modern digital font.
 
